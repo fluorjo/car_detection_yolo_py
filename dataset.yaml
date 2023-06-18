@@ -1,0 +1,7 @@
+names:
+- class a
+- class b
+nc: 0
+test: test_path
+train: train_path
+val: val_path
