@@ -14,4 +14,6 @@ https://github.com/ultralytics/ultralytics/blob/main/examples/YOLOv8-OpenCV-ONNX
 
 https://dacon.io/competitions/official/236107/codeshare/8414?page=1&dtype=recent  
 
-https://docs.ultralytics.com/modes/predict/#arguments
+https://docs.ultralytics.com/modes/predict/#arguments  
+
+https://dacon.io/competitions/official/236107/codeshare/8411?page=1&dtype=recent
